@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kursat Ozturk</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 
 <!--
 **kursat-ozturk/kursat-ozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
