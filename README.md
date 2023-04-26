@@ -30,8 +30,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kursat-ozturk&theme=highcontrast&hide_border=true" alt="kursat-ozturk" /></p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast&hide_border=true)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kursat-ozturk&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kursat-ozturk&limit=5&theme=highcontrast&hide_border=true&combine_all_yearly_contributions=true)
 
