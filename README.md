@@ -1,28 +1,30 @@
-<h1 align="center">Hi 👋, I'm Kursat Ozturk</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Kursat</h1>
+<h3 align="center">A passionate software developer from Turkey</h3>
 
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kursat-ozturk&label=Profile%20Views&color=000000&style=flat" alt="kursat-ozturk" /> </p>
 
-<!--
-**kursat-ozturk/kursat-ozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+- 🔭 I’m currently working on **Mobile Applications**
 
+- 🌱 I’m currently learning **Flutter, Dart**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kursat-ozturk) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kursat-ozturk) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21527389) 
+- 📝 I regularly write articles on [https://kursat-ozturk.medium.com/](https://kursat-ozturk.medium.com/)
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kursat-ozturk&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kursat-ozturk&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kursat-ozturk&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+- 📫 How to reach me **ozturk-kursat@outlook.com**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 📄 Know about my experiences [https://www.linkedin.com/in/kursat-ozturk/](https://www.linkedin.com/in/kursat-ozturk/)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kursat-ozturk&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kursat-ozturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kursat-ozturk" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21527389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21527389" height="30" width="40" /></a>
+<a href="https://medium.com/@kursat-ozturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kursat-ozturk" height="30" width="40" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=kursat-ozturk&icon=0&color=1)](https://visitcount.itsvg.in)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kursat-ozturk&show_icons=true&theme=dark&title_color=43d2fc&text_color=fec200&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="kursat-ozturk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kursat-ozturk&show_icons=true&theme=dark&title_color=43d2fc&text_color=fec200&bg_color=000000&hide_border=true&locale=en" alt="kursat-ozturk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kursat-ozturk&theme=highcontrast" alt="kursat-ozturk" /></p>
