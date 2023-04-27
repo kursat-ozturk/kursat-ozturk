@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kursat</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kursat-ozturk&label=Profile%20Views&color=000000&style=flat" alt="kursat-ozturk" /> </p>
 
