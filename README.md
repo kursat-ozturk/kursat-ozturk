@@ -1,16 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kursat</h1>
+<h1 align="center">Welcome!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kursat-ozturk&label=Profile%20Views&color=000000&style=flat" alt="kursat-ozturk" /> </p>
-
-- 🔭 I’m currently working on **Mobile Applications**
-
-- 🌱 I’m currently learning **Flutter, Dart**
-
-- 📝 I regularly write articles on [https://kursat-ozturk.medium.com/](https://kursat-ozturk.medium.com/)
-
-- 📫 How to reach me **ozturk-kursat@outlook.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/kursat-ozturk/](https://www.linkedin.com/in/kursat-ozturk/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
